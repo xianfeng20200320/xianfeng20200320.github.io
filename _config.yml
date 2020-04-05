@@ -2,12 +2,12 @@
 title: Cassie Blog
 SEOTitle: Cassie Blog
 header-img: img/post-bg-desk.jpg
-email: njxkd2018@gmail.com
+email: 328048308@qq.com
 description: "Every failure is leading towards success."
 keyword: "Cassie Blog, Cassie, Android, iOS, Apple, iPhone"
-url: "http://njxkd2018.github.io"          # your host, for absolute URL
+url: "http://xianfeng20200320.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/njxkd2018/njxkd2018.github.io.git" # you code repository
+github_repo: "https://github.com/xianfeng20200320/xianfeng20200320.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
